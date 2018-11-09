@@ -3,7 +3,8 @@
     "description": "Integrates Isolate with Symfony Messenger component (via Middleware)",
     "keywords": [
         "isolate",
-        "symfony/messenger",
+        "symfony",
+        "messenger",
         "command bus"
     ],
     "type": "library",
